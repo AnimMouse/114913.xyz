@@ -14,9 +14,9 @@ All projects here is under Cloudflare CDN.
 
 [Atrack](https://atrack.114913.xyz/)
 
-[Mirror Web Proxy](https://mirror.114913.xyz/)
-
 [Hacker Laws Website](https://hacker-laws.114913.xyz/)
+
+[My Static Redirects](https:/r.114913.xyz/)
 
 ## Why here
 
